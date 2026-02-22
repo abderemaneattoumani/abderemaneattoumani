@@ -136,8 +136,8 @@
       <h3>AI Network Intrusion Detector</h3>
       <p>A modern AI-powered network intrusion detector (Random Forest)</p>
       <div>
-        <a href="https://abderemaneattoumani.github.io/ids-reseau-ia/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        <a href="https://github.com/abderemaneattoumani/ids-reseau-ia/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
       </div>
     </li>
