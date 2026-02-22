@@ -133,6 +133,15 @@
       </div>
     </li>
     <li>
+      <h3>AI Network Intrusion Detector</h3>
+      <p>A modern AI-powered network intrusion detector (Random Forest)</p>
+      <div>
+        <a href="https://abderemaneattoumani.github.io/ids-reseau-ia/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>Task Flow</h3>
       <p>A modern and responsive to-do list built with HTML5, Tailwind CSS, and JavaScript. It allows users to add, complete, and delete tasks, with data persistence ensured by localStorage.</p>
       <div>
