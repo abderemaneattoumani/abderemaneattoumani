@@ -142,6 +142,8 @@
         <a href="https://colab.research.google.com/github/abderemaneattoumani/ids-reseau-ia/blob/main/colab_demo.ipynb" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
+        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/abderemaneattoumani/ids-reseau-ia/blob/main/colab_demo.ipynb)
       </div>
     </li>
     <li>
