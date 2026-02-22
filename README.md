@@ -133,6 +133,18 @@
       </div>
     </li>
     <li>
+      <h3>AI Password Analyzer</h3>
+      <p>Automatic password strength analysis system using AI, trained on 50,000 real passwords from the RockYou leak (2009).</p>
+      <div>
+        <a href="https://github.com/abderemaneattoumani/Password_Analyzer" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
+        </a>
+        <a href="https://colab.research.google.com/github/abderemaneattoumani/Password_Analyzer/blob/main/notebooks/04_demo_interactive.ipynb" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>AI Network Intrusion Detector</h3>
       <p>A modern AI-powered network intrusion detector (Random Forest)</p>
       <div>
