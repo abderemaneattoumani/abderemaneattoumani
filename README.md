@@ -18,13 +18,22 @@
 </div>
 
 <h2 align="left"><b>😐 About me:</b></h2>
+
 - 🎓 I'm a **BTS SIO, SISR Option** student *(Higher National Certificate in IT — Networks & Infrastructure)*
+
 - 🔥 Currently building **[EpiSight — Epidemiological Dashboard](https://episight.streamlit.app)** 🦠
+
 - 🤖 Deeply into **`AI`**, **`Machine Learning`** & **`Data Analysis`** — not in my curriculum but can't stop thinking and learning it
-- 🌱 Currently exploring **`Python`**, **`Data Science`** & **`Neural Networks`**
-- ⚡ Fun fact: **My BTS is about networks but my some of my projects are about `AI`**
-- 📫 Find me: **`GitHub`**, **`LinkedIn`**
+
+- 🌱 Currently exploring **`Cybersecurity`**, **`Python`**, **`Data Science`** & **`Neural Networks`**
+
+- ⚡ Fun fact: **My BTS is about networks but my some of my projects are about `AI`** 
+
+- 📫 Find me: **`GitHub`**, **`LinkedIn`** 
+
 - 🌐 My portfolio: [click click ✨](https://abderemaneattoumani.vercel.app)
+
+- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev) 
 
 <br>
   
