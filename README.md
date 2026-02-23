@@ -133,6 +133,18 @@
       </div>
     </li>
     <li>
+      <h3>EpiSight — Interactive Epidemiological Dashboard</h3>
+      <p>Interactive dashboard for Covid-19 epidemiological analysis in France, built on official data from Public Health France (data.gouv.fr). Complete pipeline: collection → cleaning → analysis → visualization → AI prediction → deployment.</p>
+      <div>
+        <a href="https://github.com/abderemaneattoumani/EpiSight" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
+        </a>
+        <a href="episight.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+      </div>
+    </li>
+    <li>
       <h3>AI Password Analyzer</h3>
       <p>Automatic password strength analysis system using AI, trained on 50,000 real passwords from the RockYou leak (2009).</p>
       <div>
