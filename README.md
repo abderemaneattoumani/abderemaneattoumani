@@ -17,7 +17,7 @@
   </ul>
 </div>
 
-### 😐 About me
+<h2 align="left"><b>😐 About me:</b></h2>
 - 🎓 I'm a **BTS SIO, SISR Option** student *(Higher National Certificate in IT — Networks & Infrastructure)*
 - 🔥 Currently building **[EpiSight — Epidemiological Dashboard](https://episight.streamlit.app)** 🦠
 - 🤖 Deeply into **`AI`**, **`Machine Learning`** & **`Data Analysis`** — not in my curriculum but can't stop thinking and learning it
