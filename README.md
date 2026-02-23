@@ -139,7 +139,7 @@
         <a href="https://github.com/abderemaneattoumani/EpiSight" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
-        <a href="episight.streamlit.app/" target="_blank">
+        <a href="https://episight.streamlit.app/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
