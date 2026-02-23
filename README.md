@@ -23,8 +23,6 @@
   </a>
 </div>
 
----
-
 ### 👋 About me
 - 🎓 **Current formation :** Currently training in Web development, I am investing in acquiring new skills
 - 💡 **Goal :** Become a versatile and efficient developer
