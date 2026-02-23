@@ -23,11 +23,14 @@
   </a>
 </div>
 
-### 👋 About me
-- 🎓 **Formation :** BTS SIO, SISR Option *(Higher National Certificate in IT Services — Networks & Infrastructure option)*
-- 💡 **Goal :** Build a career as a Data Analyst / AI, though my formation focuses on network & infrastructure, I actively develop my data skills through personal projects
-- 🌱 **Currently learning :** Python, Machine Learning, Data Science — alongside the core SISR curriculum
-- 🤖 **Interests :** Deeply passionate about `AI`, `Machine Learning` and `Data Analysis` — exploring these fields independently through real-world projects
+### 😐 About me
+- 🎓 I'm a **BTS SIO, SISR Option** student *(Higher National Certificate in IT — Networks & Infrastructure)*
+- 🔥 Currently building **[EpiSight — Epidemiological Dashboard](https://episight.streamlit.app)** 🦠
+- 🤖 Deeply into **`AI`**, **`Machine Learning`** & **`Data Analysis`** — not in my curriculum but can't stop thinking and learning it
+- 🌱 Currently exploring **`Python`**, **`Data Science`** & **`Neural Networks`**
+- ⚡ Fun fact: **My BTS is about networks but my some of my projects are about `AI`**
+- 📫 Find me: **`GitHub`**, **`LinkedIn`**
+- 🌐 My portfolio: [click click ✨](https://abderemaneattoumani.vercel.app)
 
 <br>
   
