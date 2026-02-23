@@ -12,17 +12,6 @@
 
 **<h2 align="center">🚀 Junior Developer</h2>**
 
-###
-
-<div align="center">
-  <a href="mailto:attoumani.abderemane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/abd%C3%A9r%C3%A9mane-attoumani-4770ba301/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
 ### 😐 About me
 - 🎓 I'm a **BTS SIO, SISR Option** student *(Higher National Certificate in IT — Networks & Infrastructure)*
 - 🔥 Currently building **[EpiSight — Epidemiological Dashboard](https://episight.streamlit.app)** 🦠
