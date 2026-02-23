@@ -33,8 +33,6 @@
 
 - 🌐 My portfolio: [click click ✨](https://abderemaneattoumani.vercel.app)
 
-- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev) 
-
 <br>
   
  **<h2 align="left">🛠️ Skills & Stacks</h2>**
