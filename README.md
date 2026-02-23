@@ -128,7 +128,7 @@
       <p>This is simply my Portfolio, created as part of my web development apprenticeship. A project designed to practice HTML5, Tailwind CSS, JavaScript, some Php and the file structure of a project.</p>
       <div>
         <a href="https://abderemaneattoumani.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+          <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
     </li>
@@ -143,7 +143,7 @@
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
         <a href="https://colab.research.google.com/github/abderemaneattoumani/Password_Analyzer/blob/main/notebooks/04_demo_interactive.ipynb" target="_blank">
-          <img src="https://img.shields.io/badge/GoogleColab-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Google Colab" />
+          <img src="https://img.shields.io/badge/Google%20Colab-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Google Colab" />
         </a>
       </div>
     </li>
