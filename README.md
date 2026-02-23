@@ -6,6 +6,9 @@
 😋 Just a simple coder
 ```
 
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=abderemaneattoumani&style=for-the-badge&color=808fff" width="180px" height="29.4px"><br>
+
 <br>
 <div id="toc">
   <ul align="left" style="list-style: none">
