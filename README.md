@@ -24,12 +24,12 @@
 </div>
 
 ### 👋 About me
-- 🎓 **Current formation :** Currently training in Web development, I am investing in acquiring new skills
-- 💡 **Goal :** Become a versatile and efficient developer
-- 🌱 **Currently learning :** Python, JavaScript, Php, React and others technologies
+- 🎓 **Formation :** BTS SIO, SISR Option *(Higher National Certificate in IT Services — Networks & Infrastructure option)*
+- 💡 **Goal :** Build a career as a Data Analyst / AI, though my formation focuses on network & infrastructure, I actively develop my data skills through personal projects
+- 🌱 **Currently learning :** Python, Machine Learning, Data Science — alongside the core SISR curriculum
+- 🤖 **Interests :** Deeply passionate about `AI`, `Machine Learning` and `Data Analysis` — exploring these fields independently through real-world projects
 
 <br>
-
   
  **<h2 align="left">🛠️ Skills & Stacks</h2>**
 <table style="width: 100%; border: 0px solid white;">
