@@ -139,8 +139,11 @@
         <a href="https://github.com/abderemaneattoumani/Password_Analyzer" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="GitHub Code" />
         </a>
-        <a href="https://colab.research.google.com/github/abderemaneattoumani/Password_Analyzer/blob/main/notebooks/04_demo_interactive.ipynb" target="_blank">
+        <a href="https://abderemaneattoumani.github.io/Password_Analyzer/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
+        </a>
+        <a href="https://colab.research.google.com/github/abderemaneattoumani/Password_Analyzer/blob/main/notebooks/04_demo_interactive.ipynb" target="_blank">
+          <img src="https://img.shields.io/badge/GoogleColab-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Google Colab" />
         </a>
       </div>
     </li>
