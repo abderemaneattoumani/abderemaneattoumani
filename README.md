@@ -118,6 +118,49 @@
   
 </table>
 
+<details>
+ <summary>
+ <h2><b>🗃️ Current Projects</b></h2></summary>
+
+ - **🦠 [**EpiSight**](https://episight.streamlit.app):** Interactive `epidemiological dashboard` analyzing **38.6M COVID-19 cases** across France — featuring official SPF indicators, automatic `wave detection`, and a 7-day `Prophet (Meta)` forecasting model trained on 1,141 days of real public health data.
+
+- **📄**  [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
+
+- **📨**  [**Klarity-AI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos — turned into clarity.
+
+- **☄️**  [**Sourceful Space**](https://coclip.vercel.app/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects with AI-crafted briefs.
+
+- **📋**  [**CoClip**](https://coclip.vercel.app/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
+
+- **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/):  The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
+
+- **🪑** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
+
+- **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
+
+- **👋** [**STOPPED: SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
+
+- **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
+
+- **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
+
+ -  **🤖** [**Gitfolio**](https://github.com/divyanshudhruv/gitfolio): A `dynamic` github profile card generator
+
+ - **✈️** [**Strix-ai**](https://github.com/divyanshudhruv/strix-ai): Easy `Delocalization`, fast and secure. 
+
+- **💳** [**Pocket Vault**](https://github.com/divyanshudhruv/pocket-vault): A developer's vault for storing most used npm packages, deployments, snippets, repos, tools etc. 
+
+ - **⚡** [**Gitlog**](https://github.com/divyanshudhruv/gitlog): A list of common `git commit messages` for version control 
+
+ - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
+
+ - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
+ 
+ - **🔮** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
+
+- **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
+</details>
+
 ---
 
 ### 🌟 Projects
